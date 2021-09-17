@@ -38,7 +38,7 @@
   </a>
   <!-- UNITY SIMBOL <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> -->
 </p>
-<img src="https://cdn.discordapp.com/attachments/663236440288657443/888276072343429140/giphy_1.gif"  min-width="460px" max-width="500px" width="40%" height="40%" align="right"> 
+<img src="https://cdn.discordapp.com/attachments/663236440288657443/888276072343429140/giphy_1.gif"  min-width="460px" max-width="500px" width="35%" height="35%" align="right"> 
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=FelippeFN&theme=midnight-purple&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeFN&theme=midnight-purple&layout=compact" />
