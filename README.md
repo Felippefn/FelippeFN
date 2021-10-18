@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Felippe <img height="40" s<img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-lightning-weather-prettycons-flat-prettycons.png"/></h1>
-<h3 align="left">A beginner in the world of programming</h3>
 
-- <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-robot-computer-and-laptop-itim2101-lineal-color-itim2101.png"/> I’m studying mechatronic engineer at IFSC - Santa Catarina unit
+
+<!--- <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-robot-computer-and-laptop-itim2101-lineal-color-itim2101.png"/> I’m studying mechatronic engineer at IFSC - Santa Catarina unit
 - <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-engine-web-and-seo-prettycons-lineal-color-prettycons.png"/> Learning about AI and python mostly.
-<!-- - <img src="https://img.icons8.com/plasticine/100/000000/work.png"/> I’m looking for a job
+- <img src="https://img.icons8.com/plasticine/100/000000/work.png"/> I’m looking for a job
 - <img src="https://img.icons8.com/ios/50/000000/phone-disconnected.png"/> Feel free to call me :)
 --->
 
