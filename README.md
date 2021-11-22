@@ -52,6 +52,9 @@
      <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
   </a>
  
+  <a href="https://pt.wikipedia.org/wiki/Microsoft_Excel" target="_blank"> 
+    <img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
+  </a>
   <!-- UNITY SIMBOL <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> -->
 </p>
 <p align= "left">
