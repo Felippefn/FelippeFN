@@ -30,17 +30,17 @@
   <a  target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> 
   </a> 
+  <a target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
+  </a>
   <a  target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
   </a> 
   <a  target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/50/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/>
   </a>
   <a  target="_blank"> 
     <img src="https://cdn.discordapp.com/attachments/663236440288657443/888438902975770634/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png"/>
-  </a>
-  <a  target="_blank"> 
-    <img src="https://img.icons8.com/fluency/48/000000/unity.png"/>
   </a>
   <a  target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
@@ -48,10 +48,10 @@
   <a  target="_blank"> 
     <img src="https://img.icons8.com/dusk/48/000000/aseprite.png"/>
   </a>
-  <a  target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
+ <a target="_blank">
+   <img src="https://img.icons8.com/dusk/50/000000/r.png"/>
   </a>
- 
+  
   <a href="https://pt.wikipedia.org/wiki/Microsoft_Excel" target="_blank"> 
     <img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
   </a>
