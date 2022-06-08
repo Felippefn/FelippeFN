@@ -12,16 +12,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-
+  
+<a href="https://www.linkedin.com/in/felippefn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
+<!--
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippefn/)
 [![image](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:flppprojects@outlook.com)
-  
+  -->
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left">
-  <a  target="_blank"> 
+  <!--<a  target="_blank"> 
    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
   </a>
   <a target="_blank"> 
@@ -54,7 +56,7 @@
   
   <a href="https://pt.wikipedia.org/wiki/Microsoft_Excel" target="_blank"> 
     <img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
-  </a>
+  </a> -->
   <!-- UNITY SIMBOL <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> -->
 </p>
 <p align= "left">
